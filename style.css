@@ -1,0 +1,24 @@
+nav{
+    background-color: rgb(212, 126, 212); 
+    border:3px solid blueviolet;
+    text-align: center;
+    padding: 15px 15px;
+    border-radius:30px ;
+    }
+    nav a {
+        text-decoration: none;
+        margin: 10px 10px;
+        color: pink;
+        border-radius: 20px;
+        padding: 5px;
+    }
+    body{
+        text-align: center;
+    }
+    .cake{
+        color: rgb(212, 147, 212);
+    }
+    footer{
+        background-color:rgb(212, 126, 212); 
+        color: white;
+    }
